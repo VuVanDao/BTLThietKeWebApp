@@ -11,12 +11,12 @@
       <div class="main-content">
         <div class="body">
           <!-- logo -->
-          <!-- <a href="./index1.html"><img src="./img/Logo_Truong_Dai_hoc_Mo_-_Dia_chat-removebg-preview.png" alt="HUMG" class="logo" /></a> -->
+          <!-- <a href="./index.html"><img src="./img/Logo_Truong_Dai_hoc_Mo_-_Dia_chat-removebg-preview.png" alt="HUMG" class="logo" /></a> -->
           <!-- nav-->
           <nav class="nav">
             <ul>
               <li class="active">
-                <a href="./index1.html">Trang chủ</a>
+                <a href="./index.html">Trang chủ</a>
               </li>
               <li>
                 <a href="./InfoTable.php">Bắt đầu</a>

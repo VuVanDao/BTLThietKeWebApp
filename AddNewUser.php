@@ -13,7 +13,7 @@
           <nav class="nav">
             <ul>
               <li class="active">
-                <a href="./index1.html">Trang chủ</a>
+                <a href="./index.html">Trang chủ</a>
               </li>
               <li>
                 <a href="./InfoTable.php">Bắt đầu</a>
