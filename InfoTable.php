@@ -85,7 +85,7 @@ mysqLi_query($conn,$sql);
           </nav>
           <!-- btn action -->
           <div class="action">
-            <a href="./introduce/Member.html" class="btn btn-sign-up">Giới thiệu</a>
+            <a href="./Introduce/Member.html" class="btn btn-sign-up">Giới thiệu</a>
           </div>
         </div>
       </div>
